@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm
+.idea/
+
+# vs-code
+.vscode/
+
+# local binary-utils
+binary_utils/
